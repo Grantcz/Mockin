@@ -1,0 +1,181 @@
+body {
+    font-family: Arial, Arial Bold, Gadget, sans-serif;
+    position: relative; 
+    background-color: black;
+}
+a.navbar-brand {
+  font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+}
+ul.nav {
+    font-family: Arial Bold, Arial Black, Gadget, sans-serif;
+    list-style-type: none;
+}
+
+#mainback {
+    background: url(../images/tattooart1.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.menutitle {
+    margin-top: 100px;
+    font-size: 400%;
+    vertical-align: center;
+    text-align: center;
+}
+.menutitle a {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 100%;
+    text-align: center;
+}
+.menutitle a:hover {
+  `font-family: Arial Bold, Gadget, sans-serif;
+    text-decoration: none; 
+    color: white;
+}
+.menutitle a:visted {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 200%;
+    text-align: center;
+}
+.menu {
+    vertical-align: center;
+    text-align: center;
+}
+.menu a {
+    font-family: Arial Bold, Gadget, sans-serif;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 100%;
+    text-align: center;
+}
+.menu a:hover {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+    text-decoration: line-through; 
+    color: white;
+}
+.menu a:visted {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+    text-decoration: none;
+    color: whitesmoke;
+    font-size: 200%;
+    text-align: center;
+}
+h1.page-header {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+}
+h2.page-header {
+    font-family: Arial Black, Arial Bold, Gadget, sans-serif;
+}
+#section1 {
+    background: url(../images/wood.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    height:500px;
+    font-size: 500%;
+    text-align: center;
+}
+#section1 h6 {
+    font-size: 300%;
+    font-family: Arial, Arial Bold, Gadget, sans-serif;
+    margin-top: 60px;
+    color: white;
+}
+#section1 small {
+    font-size: 100%;
+    font-family: Arial Black, Gadget, sans-serif;
+    color: white;
+}
+#section2 {
+    color: #fff;
+    background-color: #2B2C2C;
+}
+#section11 {
+    background: url(../images/wall.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
+#section3 {
+    padding-top: 20px;  
+    color: #fff; 
+    background-color: #ff9800;
+}
+#section4 {
+    background: url(../images/green.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
+#section5 {
+    padding-top: 20px;  
+    color: #fff; 
+    background-color: #82E0AA;
+}
+#section51 {
+    background: url(../images/splatter.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
+#section6 {
+    width: device-width;
+    padding-top: 20px;  
+    color: #fff; 
+    background-color: #85C1E9;
+}
+.jumbotron {
+    text-align: center;
+    color: black;
+}
+.jumbotron h1 {
+    text-align: center;
+}
+.jumbotron p {
+    text-align: center;
+}
+.checkbox label{
+    padding: 10px;
+}
+ul.list-inline {
+    padding: 10px;
+    text-align: center;
+}
+#section61 {
+    background: url(../images/pinktrees.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
+#section7 {
+    padding-top: 20px;
+    color: #fff; 
+    background-color: #C0392B;
+}
+.well {
+    color: black;
+    background-color: whitesmoke;
+}
+.panel {
+    background-color: black;
+    color: white;
+}
+iframe {
+    postition: absolute;
+}
