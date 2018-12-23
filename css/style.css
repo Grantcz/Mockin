@@ -1,7 +1,13 @@
+*{
+    display: block;
+}
 body {
     font-family: Arial, Arial Bold, Gadget, sans-serif;
     position: relative; 
     background-color: black;
+}
+nav.navbar{
+    margin-bottom: 0;
 }
 a.navbar-brand {
   font-family: Arial Black, Arial Bold, Gadget, sans-serif;
@@ -32,7 +38,7 @@ ul.nav {
     text-align: center;
 }
 .menutitle a:hover {
-  `font-family: Arial Bold, Gadget, sans-serif;
+    font-family: Arial Bold, Gadget, sans-serif;
     text-decoration: none; 
     color: white;
 }
@@ -73,25 +79,27 @@ h2.page-header {
     font-family: Arial Black, Arial Bold, Gadget, sans-serif;
 }
 #section1 {
+    padding: 0;
+    margin-top: -18px;
     background: url(../images/wood.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center;
-    height:500px;
+    height: 80%;
     font-size: 500%;
     text-align: center;
 }
 #section1 h6 {
     font-size: 300%;
-    font-family: Arial, Arial Bold, Gadget, sans-serif;
+    font-family: cursive, Arial Bold, Gadget, sans-serif;
     margin-top: 60px;
     color: white;
 }
 #section1 small {
     font-size: 100%;
-    font-family: Arial Black, Gadget, sans-serif;
+    font-family: cursive, Gadget, sans-serif;
     color: white;
 }
 #section2 {
@@ -177,5 +185,5 @@ ul.list-inline {
     color: white;
 }
 iframe {
-    postition: absolute;
+    position: absolute;
 }
